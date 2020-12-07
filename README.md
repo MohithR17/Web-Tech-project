@@ -9,3 +9,5 @@ To make this application work:
 Type " npm install " inside the Web_tech_MERN_project which is root directory ( Download Server Dependencies as specified in package.json file )
 
 Type " npm install " inside the client directory ( Download Front-end Dependencies  as specified in package.json file )
+
+Some modules might fail to download, that could be downloaded using appropriate commands by running command promt as administrator
